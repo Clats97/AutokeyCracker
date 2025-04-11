@@ -29,3 +29,9 @@ This Python script decrypts ciphertext encrypted with the Vigenere Autokey ciphe
 - **NLTK (Natural Language Toolkit):**  
   Install via pip:
   pip install nltk
+
+  **Author**
+Joshua M Clatney (Clats97)
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
