@@ -30,7 +30,7 @@ This Python script decrypts ciphertext encrypted with the Vigenere Autokey ciphe
   Install via pip:
   pip install nltk
 
-  **Author**
+**Author**
 Joshua M Clatney (Clats97)
 
 Ethical Pentesting Enthusiast
